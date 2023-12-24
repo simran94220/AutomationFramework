@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <!--class name="utils.SeleniumDriver"/>
-      <class name="steps.BeforeActions"/>
-      <class name="steps.AfterActions"/-->
+  
        <class name="runners.testrunner"/>
       
     </classes>
