@@ -21,6 +21,7 @@ Web Automation Framework: This is web automation framework made by using seleniu
 <ul>
   <li>Framework Architecture</li>
   <li>GitHub Brance Standard</li>
+ <li>Extend reports</li>
 </ul>
 
 <h2>Note</h2>
