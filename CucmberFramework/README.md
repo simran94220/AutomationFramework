@@ -1,6 +1,6 @@
 # AutomationFramework
 Web Automation Framework: This is web automation framework made by using selenium, java and maven based on cucumber-bdd layout.It has a test suite file with at least five tests for page 
-    <a href="https://www.jdoodle.com/online-java-compiler" target="_blank">online-java-compeler</a>
+    <a href="https://www.jdoodle.com/online-java-compiler" target="_blank">online-java-compiler</a>
 
 
 <h2>Getting Started</h2>
