@@ -6,7 +6,7 @@ Web Automation Framework: This is web automation framework made by using seleniu
 <h2>Getting Started</h2>
 <ul>
   <li>
-    <a href="tbd" target="_blank">Eclipse setup</a>
+    <a href="https://testsigma.com/blog/selenium-with-eclipse/" target="_blank">Eclipse setup</a>
   </li>
 </ul>
 
